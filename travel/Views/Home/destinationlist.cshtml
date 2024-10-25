@@ -1,0 +1,66 @@
+﻿@model IEnumerable<travel.Models.Destinationtb>
+
+@{
+    ViewData["Title"] = "destinationlist";
+    Layout = "adminlayout";
+
+}
+
+<div class="container">
+    <div class="container">
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+        <h1>Destination List</h1>
+        <br />
+        <p>
+            <a asp-action="adddest">Create New</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DestinationCountry)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DestinationPrice)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DestinationGuider)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DestinationImage)
+                    </th>
+                    <th>
+                        Action
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DestinationCountry)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DestinationPrice)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DestinationGuider)
+                        </td>
+                        <td>
+                            <img src="../images/@Html.DisplayFor(modelItem => item.DestinationImage)" style="height:100px; width:100px;" />
+
+                        </td>
+                        <td>
+                            <a asp-action="editdest" asp-route-id="@item.DestinationId">Edit</a> |
+                            <a asp-action="destdetail" asp-route-id="@item.DestinationId">Details</a> |
+                            <a asp-action="destdelete" asp-route-id="@item.DestinationId">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<travel.Models.AspNetUser>
+
+@{
+    ViewData["Title"] = "userlist";
+    Layout = "adminlayout";
+
+}
+
+
+<div class="container">
+
+    <div class="container">
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+
+        <h1>User List</h1>
+
+        <table class="table" style="margin-top:50px;">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id)
+
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.UserName)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </th>
+
+
+                    <!--<th>
+                         Action
+                     </th>-->
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.UserName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Email)
+                        </td>
+
+                        <!--<td>
+                            <a asp-action="Details" asp-route-id="">Details</a> |
+                            <a asp-action="Delete" asp-route-id="">Delete</a>
+                        </td>-->
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

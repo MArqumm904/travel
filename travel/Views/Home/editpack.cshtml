@@ -1,0 +1,128 @@
+﻿@model travel.packimg
+
+@{
+    ViewData["Title"] = "editpack";
+    Layout = "adminlayout";
+
+}
+
+
+<div class="container">
+    <div class="container">
+        
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+        <br />
+        <h1>Edit Package</h1>
+        <br />
+        <hr />
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="editpack" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="PackageId" />
+                    
+                    <div class="form-group">
+                        <label asp-for="PackageCountry" class="control-label"></label>
+                        <input asp-for="PackageCountry" class="form-control" />
+                        <span asp-validation-for="PackageCountry" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PackagePerson" class="control-label"></label>
+                        <input asp-for="PackagePerson" class="form-control" />
+                        <span asp-validation-for="PackagePerson" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PackageDays" class="control-label"></label>
+                        <input asp-for="PackageDays" class="form-control" />
+                        <span asp-validation-for="PackageDays" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PackagePrice" class="control-label"></label>
+                        <input asp-for="PackagePrice" class="form-control" />
+                        <span asp-validation-for="PackagePrice" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="PackageDate1" class="control-label"></label>
+                        <input asp-for="PackageDate1" class="form-control" />
+                        <span asp-validation-for="PackageDate1" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PackageDate2" class="control-label"></label>
+                        <input asp-for="PackageDate2" class="form-control" />
+                        <span asp-validation-for="PackageDate2" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PackageDate3" class="control-label"></label>
+                        <input asp-for="PackageDate3" class="form-control" />
+                        <span asp-validation-for="PackageDate3" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PackageGuide" class="control-label"></label>
+                        
+                        <select asp-for="PackageGuide" id="sizeDropdown">
+                            
+                            @foreach (var item in ViewBag.guide)
+                            {
+                                <option value="@item.GuideName" selected="@(item.GuideName == Model.PackageGuide)">
+                                    @item.GuideName - @item.GuideDestination
+                                </option>
+
+                            }
+                        </select>
+                        <span asp-validation-for="PackageGuide" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label asp-for="PackageDescription" class="control-label"></label>
+                        <input asp-for="PackageDescription" class="form-control" />
+                        <span asp-validation-for="PackageDescription" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PackagePhoto" class="control-label"></label>
+                        <input asp-for="PackagePhoto" class="form-control" />
+                        <span asp-validation-for="PackagePhoto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PopularPackage" class="control-label"></label>
+                        @if (Model.PopularPackage == true)
+                        {
+                            @Html.CheckBox("PopularPackage", true)
+
+                        }
+                        else
+                        {
+                            @Html.CheckBox("PopularPackage", false)
+
+                        }
+
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ActivePackage" class="control-label"></label>
+                        @if(Model.ActivePackage == true){
+                            @Html.CheckBox("ActivePackage", true)
+
+                        }
+                        else
+                        {
+                            @Html.CheckBox("ActivePackage", false)
+
+                        }
+
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            <a asp-action="packagelist">Back to List</a>
+        </div>
+
+
+    </div>
+</div>

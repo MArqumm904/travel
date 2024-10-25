@@ -1,0 +1,68 @@
+﻿@model IEnumerable<travel.Models.Guidetb>
+
+@{
+    ViewData["Title"] = "guidelist";
+    Layout = "adminlayout";
+
+}
+
+
+
+
+
+<div class="container">
+
+    <div class="container">
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+
+        <h1>Guider List</h1>
+        <br />
+        <p>
+            <a asp-action="addguide">Create New</a>
+        </p>
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.GuideName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.GuideDestination)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.GuideImage)
+                    </th>
+                    <th>
+                        Action
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.GuideName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.GuideDestination)
+                        </td>
+                        <td>
+                            <img src="../images/@Html.DisplayFor(modelItem => item.GuideImage)" style="height:100px; width:100px;" />
+
+                        </td>
+                        <td>
+                            <a asp-action="editguide" asp-route-id="@item.GudieId">Edit</a> |
+                            <a asp-action="guidedetail" asp-route-id="@item.GudieId">Details</a> |
+                            <a asp-action="guidedelete" asp-route-id="@item.GudieId">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

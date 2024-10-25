@@ -1,0 +1,136 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+ @model IEnumerable<travel.Models.Bookingtb>
+
+@{
+    ViewData["Title"] = "booklist";
+    var userId = UserManager.GetUserId(User);
+    var userBookings = Model.Where(b => b.UserId == userId);
+}
+
+@section navbar {
+    <div class="navbar-nav ms-auto py-0">
+        <a asp-action="index" class="nav-item nav-link ">Home</a>
+        <a asp-action="about" class="nav-item nav-link">About</a>
+        <a asp-action="services" class="nav-item nav-link">Services</a>
+        <a asp-action="packages" class="nav-item nav-link">Packages</a>
+        <a asp-action="destination" class="nav-item nav-link">Destination</a>
+        <a asp-action="contact" class="nav-item nav-link">Contact</a>
+    </div>
+}
+
+@section arqam {
+    <div class="container-fluid bg-primary py-5 mb-5 hero-header">
+        <div class="container py-5">
+            <div class="row justify-content-center py-5">
+                <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
+                    <h1 class="display-3 text-white animated slideInDown">Booking Details</h1>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a href="#">Home</a></li>
+                            <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">Booking Detail</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<div class="container">
+    <div class="container">
+        <h3 class="alert alert-success">
+            @ViewBag.SuccessMessage
+        </h3>
+        <br />
+        <h1>Booking Details</h1>
+        <br />
+
+        <table class="table table-responsive-lg">
+            
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FullName)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.PhoneNumber)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Destination)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DateTime)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TotalPrice)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Guider)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Days)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Person)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.PaymentMethod)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.Status)
+                    </th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in userBookings)
+                {
+                   
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.FullName)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PhoneNumber)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Destination)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DateTime)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TotalPrice)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Guider)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Days)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Person)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PaymentMethod)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Status)
+                            </td>
+                            
+                        </tr>
+                }
+            </tbody>
+        </table>
+        
+    </div>
+</div>

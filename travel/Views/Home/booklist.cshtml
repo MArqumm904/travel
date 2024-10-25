@@ -1,0 +1,131 @@
+﻿ @model IEnumerable<travel.Models.Bookingtb>
+
+@{
+    ViewData["Title"] = "booklist";
+    Layout = "adminlayout";
+}
+
+<div class="container">
+    <div class="container">
+       
+
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+
+        <h1>Booking List</h1>
+        <br />
+
+            <table class="table table-responsive-lg">
+                
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FullName)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.PhoneNumber)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Destination)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DateTime)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TotalPrice)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Guider)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Days)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Person)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.PaymentMethod)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.Status)
+                    </th>
+                    <th>
+                        Action
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    if (item.Email != null && item.FullName != null && item.PhoneNumber != null)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.FullName)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PhoneNumber)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Destination)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DateTime)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TotalPrice)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Guider)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Days)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Person)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PaymentMethod)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Status)
+                            </td>
+                            <td>
+                                @if (item.Status == "pending")
+                                {
+                                    <form asp-action="ApproveRequest" method="post">
+                                        <input type="hidden" name="requestId" value="@item.BookId" />
+                                        <button type="submit" class="btn btn-success">Approve</button>
+                                    </form>
+                                    <br />
+                                    <form asp-action="RejectRequest" method="post">
+                                        <input type="hidden" name="requestId" value="@item.BookId" />
+                                        <button type="submit" class="btn btn-danger">Reject</button>
+                                    </form>
+                                }
+                                else
+                                {
+                                    <form asp-action="SetPending" method="post">
+                                        <input type="hidden" name="requestId" value="@item.BookId" />
+                                        <button type="submit" class="btn btn-warning">Set Pending</button>
+                                    </form>
+                                }
+                            </td>
+                            <td>
+
+                                <a asp-action="bookdetail" asp-route-id="@item.BookId">Booking Details</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    
+    </div>
+</div>

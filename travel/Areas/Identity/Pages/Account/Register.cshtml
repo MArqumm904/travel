@@ -1,0 +1,275 @@
+﻿@page
+@model RegisterModel
+@{
+    Layout = null;
+}
+
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap"
+      rel="stylesheet" />
+<link rel="icon" href="~/img/tbg.png" />
+<title>Register</title>
+<!----<link href="~/css/signup.css" rel="stylesheet" />--->
+<style>
+    *,
+    *:before,
+    *:after {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        background-color: #080710;
+    }
+
+    .background {
+        width: 430px;
+        height: 520px;
+        position: absolute;
+        transform: translate(-50%, -50%);
+        left: 50%;
+        top: 50%;
+    }
+
+        .background .shape {
+            height: 200px;
+            width: 200px;
+            position: absolute;
+            border-radius: 50%;
+        }
+
+    .shape:first-child {
+        background: linear-gradient(#86b817, #23f690);
+        left: -80px;
+        top: -80px;
+    }
+
+    .shape:last-child {
+        background: linear-gradient(to right, #817d7d, #fff);
+        right: -30px;
+        bottom: -80px;
+    }
+
+    .form1 {
+        height: 670px;
+        width: 400px;
+        background-color: rgba(255, 255, 255, 0.13);
+        position: absolute;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+        border: 2px solid rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+        padding: 50px 35px;
+    }
+
+        .form1 * {
+            font-family: "Poppins", sans-serif;
+            color: #ffffff;
+            letter-spacing: 0.5px;
+            outline: none;
+            border: none;
+        }
+
+        .form1 h3 {
+            font-size: 32px;
+            font-weight: 500;
+            line-height: 42px;
+            text-align: center;
+        }
+
+    .form2 {
+        margin-top: 620px;
+        position:relative;
+        background-color:transparent;
+    }
+
+
+    label {
+        display: block;
+        margin-top: 30px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    input {
+        display: block;
+        height: 50px;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.07);
+        border-radius: 3px;
+        padding: 0 10px;
+        margin-top: 8px;
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    .label
+    ::placeholder {
+        color: #fff !important;
+        font-weight: bold;
+    }
+
+    .btnn {
+        margin-top: 20px;
+        width: 80%;
+        background-color: #23f690;
+        color: #080710;
+        padding: 15px 0;
+        font-size: 18px;
+        font-weight: 600;
+        border-radius: 5px;
+        cursor: pointer;
+        height: 50px;
+        line-height: 10px;
+        margin-left: 32px;
+    }
+
+    .social {
+        margin-top: 30px;
+        display: flex;
+    }
+
+    .signin {
+        max-width: 320px;
+        display: flex;
+        padding: 0.5rem 1.4rem;
+        font-size: 0.875rem;
+        line-height: 1.25rem;
+        font-weight: 700;
+        text-align: center;
+        font-family: "Montserrat", sans-serif;
+        vertical-align: middle;
+        align-items: center;
+        border-radius: 0.5rem;
+        border: 1px solid rgba(255, 255, 255, 0.25);
+        gap: 0.75rem;
+        color: #c4d2dc;
+        background-color: #19242b;
+        cursor: pointer;
+        transition: all 0.25s cubic-bezier(0, 0.87, 0.12, 1);
+        margin: 20px auto;
+    }
+
+        .signin:hover {
+            transform: scale(1.025);
+        }
+
+        .signin:active {
+            transform: scale(0.975);
+        }
+
+        .signin svg {
+            height: 24px;
+            width: auto;
+        }
+
+    /* <reset-style> ============================ */
+    a {
+        text-decoration: none;
+    }
+    /* <main-style> ============================ */
+    .menu__link {
+        color: #fff;
+        line-height: 2;
+        position: relative;
+        
+    }
+
+        .menu__link:last-child {
+            margin-left: 70px;
+            position: relative;
+            top: 20px;
+        }
+
+        .menu__link::before {
+            content: "";
+            width: 100%;
+            height: 2px;
+            border-radius: 2px;
+            background-color: #fff;
+            position: absolute;
+            bottom: -0.5rem;
+            left: 0;
+            transition: transform 0.4s, opacity 0.4s;
+            opacity: 0;
+        }
+
+        .menu__link:hover::before {
+            transform: translateY(-0.25rem);
+            opacity: 1;
+        }
+
+</style>
+<div>
+
+
+    <div class="background">
+        <div class="shape"></div>
+        <div class="shape"></div>
+    </div>
+    <form class="form1" id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+        <h3>Register Here</h3>
+        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+        <label asp-for="Input.Email">Email</label>
+        <input asp-for="Input.Email" autocomplete="username" aria-required="true" placeholder="name@example.com" type="email" />
+        <span asp-validation-for="Input.Email" class="text-danger"></span>
+
+        <label asp-for="Input.Password">Password</label>
+        <input asp-for="Input.Password" type="password" autocomplete="new-password" aria-required="true" placeholder="password" />
+        <span asp-validation-for="Input.Password" class="text-danger"></span>
+
+        <label asp-for="Input.ConfirmPassword">Confirm Password</label>
+        <input type="password" asp-for="Input.ConfirmPassword" placeholder="Confirm Password" autocomplete="new-password" aria-required="true" />
+        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+        <br />
+        <a class="menu__link" asp-page="./Login" asp-route-returnUrl="@Model.ReturnUrl">Already have an account?</a>
+        <button class="btnn" id="registerSubmit" type="submit">Sign Up</button>
+
+
+        
+
+
+    </form>
+
+    <form class="form2" id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" >
+        <div>
+            <p>
+                @foreach (var provider in Model.ExternalLogins!)
+                {
+
+                    <button class="signin" type="submit" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">
+                        <svg viewBox="0 0 256 262"
+                             preserveAspectRatio="xMidYMid"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M255.878 133.451c0-10.734-.871-18.567-2.756-26.69H130.55v48.448h71.947c-1.45 12.04-9.283 30.172-26.69 42.356l-.244 1.622 38.755 30.023 2.685.268c24.659-22.774 38.875-56.282 38.875-96.027"
+                                  fill="#4285F4"></path>
+                            <path d="M130.55 261.1c35.248 0 64.839-11.605 86.453-31.622l-41.196-31.913c-11.024 7.688-25.82 13.055-45.257 13.055-34.523 0-63.824-22.773-74.269-54.25l-1.531.13-40.298 31.187-.527 1.465C35.393 231.798 79.49 261.1 130.55 261.1"
+                                  fill="#34A853"></path>
+                            <path d="M56.281 156.37c-2.756-8.123-4.351-16.827-4.351-25.82 0-8.994 1.595-17.697 4.206-25.82l-.073-1.73L15.26 71.312l-1.335.635C5.077 89.644 0 109.517 0 130.55s5.077 40.905 13.925 58.602l42.356-32.782"
+                                  fill="#FBBC05"></path>
+                            <path d="M130.55 50.479c24.514 0 41.05 10.589 50.479 19.438l36.844-35.974C195.245 12.91 165.798 0 130.55 0 79.49 0 35.393 29.301 13.925 71.947l42.211 32.783c10.59-31.477 39.891-54.251 74.414-54.251"
+                                  fill="#EB4335"></path>
+                        </svg>
+                        Continue with @provider.DisplayName
+                    </button>
+                }
+            </p>
+        </div>
+    </form>
+
+   
+    
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+

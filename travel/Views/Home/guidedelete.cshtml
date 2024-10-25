@@ -1,0 +1,50 @@
+﻿@model travel.Models.Guidetb
+
+@{
+    ViewData["Title"] = "guidedelete";
+    Layout = "adminlayout";
+
+}
+
+
+<div class="container">
+    <div class="container">
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+        <h1>Guider Delete</h1>
+        <br />
+        <hr />
+        <h3>Are you sure you want to delete this?</h3>
+        <div>
+               <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.GuideName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.GuideName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.GuideDestination)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.GuideDestination)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.GuideImage)
+                </dt>
+                <dd class="col-sm-10">
+                    <img src="~/images/@Html.DisplayFor(model => model.GuideImage)" style="height:100px; width:100px;" />
+
+                </dd>
+            </dl>
+            <br />
+            <hr />
+            <form asp-action="guidedelete">
+                <input type="hidden" asp-for="GudieId" />
+                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                <a asp-action="guidelist">Back to List</a>
+            </form>
+        </div>
+
+    </div>
+</div>

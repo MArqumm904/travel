@@ -1,0 +1,3325 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\travel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\travel.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\adminassets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\css\\icons\\tabler-icons\\tabler-icons.css",
+      "PackagePath": "staticwebassets\\adminassets\\css\\icons\\tabler-icons\\tabler-icons.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\adminassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\css\\styles.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\backgrounds\\rocket.png",
+      "PackagePath": "staticwebassets\\adminassets\\images\\backgrounds\\rocket.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\logos\\dark-logo.svg",
+      "PackagePath": "staticwebassets\\adminassets\\images\\logos\\dark-logo.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\logos\\favicon.png",
+      "PackagePath": "staticwebassets\\adminassets\\images\\logos\\favicon.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\products\\s1.jpg",
+      "PackagePath": "staticwebassets\\adminassets\\images\\products\\s1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\products\\s11.jpg",
+      "PackagePath": "staticwebassets\\adminassets\\images\\products\\s11.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\products\\s4.jpg",
+      "PackagePath": "staticwebassets\\adminassets\\images\\products\\s4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\products\\s5.jpg",
+      "PackagePath": "staticwebassets\\adminassets\\images\\products\\s5.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\products\\s7.jpg",
+      "PackagePath": "staticwebassets\\adminassets\\images\\products\\s7.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\images\\profile\\user-1.jpg",
+      "PackagePath": "staticwebassets\\adminassets\\images\\profile\\user-1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\adminassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\adminassets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\LICENSE",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\README.md",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\README.md"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\apexcharts.amd.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\apexcharts.common.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\apexcharts.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\apexcharts.esm.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\apexcharts.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\ar.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\ca.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\cs.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\de.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\de.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\el.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\el.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\en.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\en.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\es.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\es.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\et.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\et.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\fa.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\fi.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\fr.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\he.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\he.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\hi.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\hr.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\hu.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\hy.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\id.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\id.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\it.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\it.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\ja.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\ka.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\ko.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\lt.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\lv.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\nb.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\nl.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\pl.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\pt-br.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\pt.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\rs.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\ru.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\se.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\se.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\sk.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\sl.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\sq.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\th.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\th.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\tr.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\ua.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\dist\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\dist\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\package.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\package.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\apexcharts.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\apexcharts.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-camera.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-camera.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-home.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-home.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-menu.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-menu.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-minus-square.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-minus-square.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-minus.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-minus.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-pan-hand.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-pan-hand.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-pan.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-pan.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-plus-square.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-plus-square.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-plus.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-plus.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-refresh.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-refresh.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-reset.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-reset.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-select.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-select.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-select1.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-select1.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-zoom-in.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-zoom-in.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-zoom-out.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-zoom-out.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\assets\\ico-zoom.svg",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\assets\\ico-zoom.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\Bar.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\Bar.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\BarStacked.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\BarStacked.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\BoxCandleStick.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\BoxCandleStick.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\HeatMap.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\HeatMap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\Line.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\Line.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\Pie.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\Pie.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\Radar.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\Radar.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\Radial.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\Radial.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\RangeBar.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\RangeBar.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\Scatter.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\Scatter.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\Treemap.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\Treemap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\common\\bar\\DataLabels.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\common\\bar\\DataLabels.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\common\\bar\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\common\\bar\\Helpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\common\\circle\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\common\\circle\\Helpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\common\\line\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\common\\line\\Helpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\charts\\common\\treemap\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\charts\\common\\treemap\\Helpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\libs\\Treemap-squared.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\libs\\Treemap-squared.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\ar.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\ca.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\cs.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\de.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\de.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\el.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\el.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\en.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\en.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\es.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\es.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\et.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\et.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\fa.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\fi.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\fr.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\he.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\he.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\hi.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\hr.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\hu.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\hy.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\id.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\id.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\it.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\it.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\ja.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\ka.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\ko.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\lt.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\lv.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\nb.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\nl.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\pl.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\pt-br.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\pt.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\rs.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\ru.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\se.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\se.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\sk.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\sl.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\sq.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\th.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\th.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\tr.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\ua.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Animations.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Animations.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Base.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Base.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Core.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Core.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\CoreUtils.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\CoreUtils.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Crosshairs.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Crosshairs.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Data.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Data.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\DataLabels.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\DataLabels.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Events.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Events.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Exports.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Exports.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Fill.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Fill.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Filters.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Filters.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Formatters.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Formatters.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Graphics.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Graphics.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Markers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Markers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Range.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Range.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Responsive.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Responsive.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Scales.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Scales.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Series.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Series.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Theme.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Theme.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\TimeScale.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\TimeScale.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\TitleSubtitle.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\TitleSubtitle.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\Toolbar.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\Toolbar.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\ZoomPanSelection.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\ZoomPanSelection.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\Annotations.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\Annotations.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\Helpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\PointsAnnotations.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\PointsAnnotations.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\XAxisAnnotations.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\XAxisAnnotations.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\YAxisAnnotations.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\annotations\\YAxisAnnotations.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\Axes.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\Axes.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\AxesUtils.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\AxesUtils.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\Grid.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\Grid.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\XAxis.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\XAxis.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\YAxis.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\axes\\YAxis.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\Dimensions.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\Dimensions.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\Grid.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\Grid.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\Helpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\XAxis.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\XAxis.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\YAxis.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\dimensions\\YAxis.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\helpers\\Destroy.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\helpers\\Destroy.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\helpers\\InitCtxVariables.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\helpers\\InitCtxVariables.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\helpers\\Localization.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\helpers\\Localization.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\helpers\\UpdateHelpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\helpers\\UpdateHelpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\legend\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\legend\\Helpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\legend\\Legend.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\legend\\Legend.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\settings\\Config.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\settings\\Config.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\settings\\Defaults.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\settings\\Defaults.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\settings\\Globals.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\settings\\Globals.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\settings\\Options.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\settings\\Options.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\AxesTooltip.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\AxesTooltip.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Intersect.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Intersect.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Labels.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Labels.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Marker.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Marker.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Position.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Position.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\README.md",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\README.md"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Tooltip.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Tooltip.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Utils.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\modules\\tooltip\\Utils.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\svgjs\\svg.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\svgjs\\svg.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\utils\\DateTime.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\utils\\DateTime.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\utils\\Resize.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\utils\\Resize.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\src\\utils\\Utils.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\src\\utils\\Utils.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\apexcharts\\types\\apexcharts.d.ts",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\apexcharts\\types\\apexcharts.d.ts"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\README.md"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\README.md",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\README.md"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\browsers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\browsers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\helpers\\fixture.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\helpers\\fixture.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\bundle-modularity.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\bundle-modularity.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\bundle.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\bundle.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\index.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\index.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle-modularity.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle-modularity.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\integration\\rollup.bundle.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\karma.conf.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\karma.conf.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\alert.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\alert.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\base-component.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\base-component.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\button.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\button.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\carousel.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\carousel.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\collapse.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\collapse.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dom\\data.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dom\\data.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dom\\event-handler.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dom\\event-handler.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dom\\manipulator.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dom\\manipulator.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dom\\selector-engine.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dom\\selector-engine.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dropdown.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\dropdown.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\jquery.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\jquery.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\modal.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\modal.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\offcanvas.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\offcanvas.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\popover.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\popover.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\scrollspy.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\scrollspy.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\tab.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\tab.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\toast.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\toast.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\tooltip.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\tooltip.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\backdrop.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\backdrop.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\component-functions.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\component-functions.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\config.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\config.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\focustrap.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\focustrap.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\index.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\index.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\sanitizer.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\sanitizer.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\scrollbar.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\scrollbar.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\swipe.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\swipe.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\template-factory.spec.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\unit\\util\\template-factory.spec.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\alert.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\alert.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\button.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\button.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\carousel.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\carousel.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\collapse.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\collapse.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\dropdown.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\dropdown.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\modal.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\modal.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\popover.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\popover.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\scrollspy.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\scrollspy.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\tab.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\tab.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\toast.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\toast.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\tooltip.html",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\js\\tests\\visual\\tooltip.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\AUTHORS.txt"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\README.md"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\bower.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\external\\sizzle\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\external\\sizzle\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\external\\sizzle\\dist\\sizzle.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\external\\sizzle\\dist\\sizzle.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\external\\sizzle\\dist\\sizzle.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\external\\sizzle\\dist\\sizzle.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\external\\sizzle\\dist\\sizzle.min.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\external\\sizzle\\dist\\sizzle.min.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\package.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax\\parseXML.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax\\parseXML.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\DOMEval.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\DOMEval.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\camelCase.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\camelCase.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\isAttached.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\isAttached.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\nodeName.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\nodeName.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\readyException.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\readyException.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\stripAndCollapse.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\stripAndCollapse.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\toType.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\toType.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\finalPropName.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\finalPropName.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\var\\isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\var\\isHiddenWithinTree.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\var\\rboxStyle.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\var\\rboxStyle.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\deferred\\exceptionHook.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\deferred\\exceptionHook.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\event\\ajax.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\event\\ajax.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\event\\alias.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\event\\alias.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\event\\focusin.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\event\\focusin.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\event\\support.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\event\\support.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\selector-sizzle.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\selector-sizzle.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\ObjectFunctionString.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\ObjectFunctionString.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\concat.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\concat.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\fnToString.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\fnToString.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\getProto.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\getProto.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\isFunction.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\isFunction.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\isWindow.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\isWindow.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\LICENSE",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\README.md",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\README.md"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar-core.esm.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar-core.esm.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar-core.esm.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar-core.esm.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar.d.ts",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar.d.ts"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar.esm.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar.esm.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar.esm.js.map",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar.esm.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\dist\\simplebar.umd.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\dist\\simplebar.umd.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\package.json",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\package.json"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\src\\helpers.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\src\\helpers.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\src\\index.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\src\\index.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\src\\scrollbar-width.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\src\\scrollbar-width.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\src\\simplebar.css",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\src\\simplebar.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\libs\\simplebar\\src\\simplebar.js",
+      "PackagePath": "staticwebassets\\adminassets\\libs\\simplebar\\src\\simplebar.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\component\\_card.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\component\\_card.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\component\\_reboot.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\component\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\layouts\\_header.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\layouts\\_header.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\layouts\\_layouts.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\layouts\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\layouts\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\layouts\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\pages\\_dashboard1.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\pages\\_dashboard1.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\prepros.config",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\prepros.config"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\styles.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\utilities\\_icon-size.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\utilities\\_icon-size.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\variables\\_theme-variables.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\variables\\_theme-variables.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\adminassets\\scss\\variables\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminassets\\scss\\variables\\_variables.scss"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\css\\boook.css",
+      "PackagePath": "staticwebassets\\css\\boook.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\css\\signup.css",
+      "PackagePath": "staticwebassets\\css\\signup.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images.rar",
+      "PackagePath": "staticwebassets\\images.rar"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\06edb12e-8ff9-43e6-a69c-d450be827bac_fly-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\06edb12e-8ff9-43e6-a69c-d450be827bac_fly-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\0921b579-a4f4-4d5f-ac0b-96a5badd078d_global.png",
+      "PackagePath": "staticwebassets\\images\\0921b579-a4f4-4d5f-ac0b-96a5badd078d_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\0a1b1610-4d70-48dd-b345-d7610e3d9dd9_hotel.png",
+      "PackagePath": "staticwebassets\\images\\0a1b1610-4d70-48dd-b345-d7610e3d9dd9_hotel.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\0d973b61-3318-48a0-80c8-0f26a65c59a2_png-transparent-computer-icons-comfort-relax-miscellaneous-angle-building-thumbnail-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\0d973b61-3318-48a0-80c8-0f26a65c59a2_png-transparent-computer-icons-comfort-relax-miscellaneous-angle-building-thumbnail-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\0de2a9f7-dc2c-4520-943c-11853fcf7ab2_global.png",
+      "PackagePath": "staticwebassets\\images\\0de2a9f7-dc2c-4520-943c-11853fcf7ab2_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\14c8a253-6eea-406f-9215-d10040b36bb3_team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\14c8a253-6eea-406f-9215-d10040b36bb3_team-2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\185cd26e-8582-424f-ac5b-be3e48352c9a_team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\185cd26e-8582-424f-ac5b-be3e48352c9a_team-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\1b5082cf-3e4a-4263-9854-cbb3e83708fc_singapore.jpg",
+      "PackagePath": "staticwebassets\\images\\1b5082cf-3e4a-4263-9854-cbb3e83708fc_singapore.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\1dd22b30-c8ae-406c-92df-8eed26b47159_package-3.jpg",
+      "PackagePath": "staticwebassets\\images\\1dd22b30-c8ae-406c-92df-8eed26b47159_package-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\20345947-c6cb-4f7e-9e31-69890d83500e_canada.webp",
+      "PackagePath": "staticwebassets\\images\\20345947-c6cb-4f7e-9e31-69890d83500e_canada.webp"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\21550529-4c4e-4f80-9309-7483d68299c0_london.jpg",
+      "PackagePath": "staticwebassets\\images\\21550529-4c4e-4f80-9309-7483d68299c0_london.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\2371ae91-7e1d-44a4-a21c-09f67a0bef5e_global.png",
+      "PackagePath": "staticwebassets\\images\\2371ae91-7e1d-44a4-a21c-09f67a0bef5e_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\2ba3566f-54d7-49a0-b180-0c16e49b086d_hotel.png",
+      "PackagePath": "staticwebassets\\images\\2ba3566f-54d7-49a0-b180-0c16e49b086d_hotel.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\2f08a9f3-cfaf-4282-9a3a-650904bd6cbe_team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\2f08a9f3-cfaf-4282-9a3a-650904bd6cbe_team-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\303f2653-646c-4c93-ba90-a9ac1b03b70e_india.jpg",
+      "PackagePath": "staticwebassets\\images\\303f2653-646c-4c93-ba90-a9ac1b03b70e_india.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\30730c6f-6cca-4774-ace1-f3a1fbc00fdc_7-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\30730c6f-6cca-4774-ace1-f3a1fbc00fdc_7-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\33721c11-12b4-4598-81d7-27fb8349f691_5-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\images\\33721c11-12b4-4598-81d7-27fb8349f691_5-removebg-preview (1).png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\37a3bbdb-aa57-4e53-a10c-0cc2e7fb214c_d.png",
+      "PackagePath": "staticwebassets\\images\\37a3bbdb-aa57-4e53-a10c-0cc2e7fb214c_d.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\3af58bfa-f02d-41ef-9962-0100b924db7f_team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\3af58bfa-f02d-41ef-9962-0100b924db7f_team-1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\3b312ac0-7768-41d0-91e7-a7a2a2343f1f_global.png",
+      "PackagePath": "staticwebassets\\images\\3b312ac0-7768-41d0-91e7-a7a2a2343f1f_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\49600dcc-f4a2-41af-845a-d892efb8f80f_3-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\49600dcc-f4a2-41af-845a-d892efb8f80f_3-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\4a17013f-98d7-4816-8fe0-95212057ef22_team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\4a17013f-98d7-4816-8fe0-95212057ef22_team-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\4b6af885-29f1-49a7-accb-76a96305135e_destination-2.jpg",
+      "PackagePath": "staticwebassets\\images\\4b6af885-29f1-49a7-accb-76a96305135e_destination-2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\53e3a0be-9a00-4a1c-8e40-3e86396831de_team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\53e3a0be-9a00-4a1c-8e40-3e86396831de_team-4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\56495656-f9b2-4c6e-a59a-c54484364221_e.png",
+      "PackagePath": "staticwebassets\\images\\56495656-f9b2-4c6e-a59a-c54484364221_e.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\568358e3-78d4-4f28-91a1-7789ef30469b_setting.png",
+      "PackagePath": "staticwebassets\\images\\568358e3-78d4-4f28-91a1-7789ef30469b_setting.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\58c7b45e-5595-4268-a5f1-c83bea9fd5b9_3.jpg",
+      "PackagePath": "staticwebassets\\images\\58c7b45e-5595-4268-a5f1-c83bea9fd5b9_3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\67409775-7713-4368-acf2-605c7d2fcae3_afg.jpg",
+      "PackagePath": "staticwebassets\\images\\67409775-7713-4368-acf2-605c7d2fcae3_afg.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\674d1847-7b28-42de-805f-f50db8dc7ee3_profile.png",
+      "PackagePath": "staticwebassets\\images\\674d1847-7b28-42de-805f-f50db8dc7ee3_profile.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\6d0a7fb6-16da-4dea-acb4-a61973deb98f_pak.jpg",
+      "PackagePath": "staticwebassets\\images\\6d0a7fb6-16da-4dea-acb4-a61973deb98f_pak.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\77cd4d27-130e-4294-aea6-1f6a148af6e4_p3.png",
+      "PackagePath": "staticwebassets\\images\\77cd4d27-130e-4294-aea6-1f6a148af6e4_p3.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\781d1de8-ad2f-4501-866f-6169cdbc6b61_iran.jpg",
+      "PackagePath": "staticwebassets\\images\\781d1de8-ad2f-4501-866f-6169cdbc6b61_iran.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\7c51d20f-1406-40d9-850f-8a0a3eca9aeb_profile.png",
+      "PackagePath": "staticwebassets\\images\\7c51d20f-1406-40d9-850f-8a0a3eca9aeb_profile.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\7d63b408-4ee8-4f02-97f7-c6dc5c517c82_team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\7d63b408-4ee8-4f02-97f7-c6dc5c517c82_team-4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\8001fad5-3d16-4f0a-903f-b0285f88e758_global.png",
+      "PackagePath": "staticwebassets\\images\\8001fad5-3d16-4f0a-903f-b0285f88e758_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\871e7fcb-2ba2-426d-9a32-5806412e14ba_testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\images\\871e7fcb-2ba2-426d-9a32-5806412e14ba_testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\8a854f27-e186-4153-8fc8-cca6167267ec_package-2.jpg",
+      "PackagePath": "staticwebassets\\images\\8a854f27-e186-4153-8fc8-cca6167267ec_package-2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\95c710dc-7738-4eea-bd4c-3dd8b646b693_package-1.jpg",
+      "PackagePath": "staticwebassets\\images\\95c710dc-7738-4eea-bd4c-3dd8b646b693_package-1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\9e1f9891-3859-41a2-a561-6522139d6126_team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\9e1f9891-3859-41a2-a561-6522139d6126_team-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\9f6f51d4-a40f-4246-aab1-0eb26e9da9c8_china.jpg",
+      "PackagePath": "staticwebassets\\images\\9f6f51d4-a40f-4246-aab1-0eb26e9da9c8_china.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\a20702d9-7520-4b78-859e-e293e5746787_5.jpg",
+      "PackagePath": "staticwebassets\\images\\a20702d9-7520-4b78-859e-e293e5746787_5.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\a231653b-ee4d-499b-b529-403820935d5a_destination-3.jpg",
+      "PackagePath": "staticwebassets\\images\\a231653b-ee4d-499b-b529-403820935d5a_destination-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\a360447a-5f28-4a14-a888-2937fca4f18e_bang.jpg",
+      "PackagePath": "staticwebassets\\images\\a360447a-5f28-4a14-a888-2937fca4f18e_bang.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\a7a61e96-f7a6-4da8-b190-9c3ce263cdf2_5-removebg-preview (1).png",
+      "PackagePath": "staticwebassets\\images\\a7a61e96-f7a6-4da8-b190-9c3ce263cdf2_5-removebg-preview (1).png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\afe38bf1-dd3c-44fd-9e4e-3f981d6c2221_dollarr-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\afe38bf1-dd3c-44fd-9e4e-3f981d6c2221_dollarr-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\b067b1de-5832-4185-8959-284dbf426107_global.png",
+      "PackagePath": "staticwebassets\\images\\b067b1de-5832-4185-8959-284dbf426107_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\b13f10d8-4728-4803-9d22-8ae484405053_nepal.webp",
+      "PackagePath": "staticwebassets\\images\\b13f10d8-4728-4803-9d22-8ae484405053_nepal.webp"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\b1c55096-39f1-4521-bf94-501655d46613_global.png",
+      "PackagePath": "staticwebassets\\images\\b1c55096-39f1-4521-bf94-501655d46613_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\b9e10f65-ab8d-46f3-8141-0aa8225f8f90_p3.png",
+      "PackagePath": "staticwebassets\\images\\b9e10f65-ab8d-46f3-8141-0aa8225f8f90_p3.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\ba314cfc-d9ae-4167-b9cb-8d4d4a257790_team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\ba314cfc-d9ae-4167-b9cb-8d4d4a257790_team-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\c0cc907d-4526-4422-bcf7-bc040942bb56_global.png",
+      "PackagePath": "staticwebassets\\images\\c0cc907d-4526-4422-bcf7-bc040942bb56_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\c3deabcd-9de3-4c1a-abb6-f9f05a8aecca_5.jpg",
+      "PackagePath": "staticwebassets\\images\\c3deabcd-9de3-4c1a-abb6-f9f05a8aecca_5.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\cb082104-ce9d-4b78-9e6b-ffe791589430_p2.png",
+      "PackagePath": "staticwebassets\\images\\cb082104-ce9d-4b78-9e6b-ffe791589430_p2.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\cf1bebfc-5c28-4b52-aa64-2a8875a5e9e6_7.jpg",
+      "PackagePath": "staticwebassets\\images\\cf1bebfc-5c28-4b52-aa64-2a8875a5e9e6_7.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\cf6b4692-9c56-45aa-a5b3-8d1d468ce5ec_16797268221943855879.jpeg",
+      "PackagePath": "staticwebassets\\images\\cf6b4692-9c56-45aa-a5b3-8d1d468ce5ec_16797268221943855879.jpeg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\de65a6d1-0826-4abc-8642-0b1d50ac3067_png-transparent-information-technology-business-managed-services-computer-icons-system-electronics-text-service-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\de65a6d1-0826-4abc-8642-0b1d50ac3067_png-transparent-information-technology-business-managed-services-computer-icons-system-electronics-text-service-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\e0c30210-04d8-4ded-b9ef-8f2607564b48_6.jpg",
+      "PackagePath": "staticwebassets\\images\\e0c30210-04d8-4ded-b9ef-8f2607564b48_6.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\e1dc3ea0-b534-4fc4-880f-c2092d78e8d1_team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\e1dc3ea0-b534-4fc4-880f-c2092d78e8d1_team-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\e2ade92f-8919-4f8f-b71c-b2cf17da27ca_hotel.png",
+      "PackagePath": "staticwebassets\\images\\e2ade92f-8919-4f8f-b71c-b2cf17da27ca_hotel.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\e55a5f00-d9ae-43da-a329-7f73f9bc1cee_global.png",
+      "PackagePath": "staticwebassets\\images\\e55a5f00-d9ae-43da-a329-7f73f9bc1cee_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\eb27cd67-da9b-4249-af89-eb62840ef9cb_pexels-photo.jpg",
+      "PackagePath": "staticwebassets\\images\\eb27cd67-da9b-4249-af89-eb62840ef9cb_pexels-photo.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\f8850e32-425c-4f0b-8d1e-29e43ff92a6d_global.png",
+      "PackagePath": "staticwebassets\\images\\f8850e32-425c-4f0b-8d1e-29e43ff92a6d_global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\images\\fe3536fd-cfc6-416d-b8ae-1b3f7e56299c_6-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\fe3536fd-cfc6-416d-b8ae-1b3f7e56299c_6-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\bg-sidebar-desktop.svg",
+      "PackagePath": "staticwebassets\\img\\bg-sidebar-desktop.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\bg-sidebar-mobile.svg",
+      "PackagePath": "staticwebassets\\img\\bg-sidebar-mobile.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\booking.jpg",
+      "PackagePath": "staticwebassets\\img\\booking.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\destination-1.jpg",
+      "PackagePath": "staticwebassets\\img\\destination-1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\destination-2.jpg",
+      "PackagePath": "staticwebassets\\img\\destination-2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\destination-3.jpg",
+      "PackagePath": "staticwebassets\\img\\destination-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\destination-4.jpg",
+      "PackagePath": "staticwebassets\\img\\destination-4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\global.png",
+      "PackagePath": "staticwebassets\\img\\global.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\icon-advanced.svg",
+      "PackagePath": "staticwebassets\\img\\icon-advanced.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\icon-arcade.svg",
+      "PackagePath": "staticwebassets\\img\\icon-arcade.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\icon-checkmark.svg",
+      "PackagePath": "staticwebassets\\img\\icon-checkmark.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\icon-pro.svg",
+      "PackagePath": "staticwebassets\\img\\icon-pro.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\icon-thank-you.svg",
+      "PackagePath": "staticwebassets\\img\\icon-thank-you.svg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\p2.png",
+      "PackagePath": "staticwebassets\\img\\p2.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\package-1.jpg",
+      "PackagePath": "staticwebassets\\img\\package-1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\package-2.jpg",
+      "PackagePath": "staticwebassets\\img\\package-2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\package-3.jpg",
+      "PackagePath": "staticwebassets\\img\\package-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\tbg.png",
+      "PackagePath": "staticwebassets\\img\\tbg.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\js\\book.js",
+      "PackagePath": "staticwebassets\\js\\book.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\travel\\travel\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.travel.props",
+      "PackagePath": "build\\travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.travel.props",
+      "PackagePath": "buildMultiTargeting\\travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.travel.props",
+      "PackagePath": "buildTransitive\\travel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.travel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

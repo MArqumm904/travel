@@ -1,0 +1,47 @@
+﻿@model travel.Models.Guidetb
+
+@{
+    ViewData["Title"] = "guidedetail";
+    Layout = "adminlayout";
+
+}
+
+
+<div class="container">
+    <div class="container">
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+        <h1>Guider Detail</h1>
+
+        <div>
+
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.GuideName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.GuideName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.GuideDestination)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.GuideDestination)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.GuideImage)
+                </dt>
+                <dd class="col-sm-10">
+                    <img src="~/images/@Html.DisplayFor(model => model.GuideImage)" style="height:100px; width:100px;" />
+
+                </dd>
+            </dl>
+            <hr />
+        </div>
+        <div>
+            <a asp-action="editguide" asp-route-id="@Model?.GudieId">Edit</a> |
+            <a asp-action="guidelist">Back to List</a>
+        </div>
+    </div>
+</div>

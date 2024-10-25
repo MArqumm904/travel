@@ -1,0 +1,73 @@
+﻿@model IEnumerable<travel.Models.Packagetb>
+
+@{
+    ViewData["Title"] = "packagelist";
+    Layout = "adminlayout";
+
+}
+
+<div class="container">
+    <div class="container">
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+
+        <h1>Package List</h1>
+        <br />
+        <p>
+            <a asp-action="addpackage">Create New</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.PackageCountry)
+                    </th>
+                    
+                    <th>
+                        @Html.DisplayNameFor(model => model.PackagePrice)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.PackageImage)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.PackageGuide)
+                    </th>
+
+                    <th>
+                        Action
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PackageCountry)
+                        </td>
+                        
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PackagePrice)
+                        </td>
+                        <td>
+                            <img src="~/images/@Html.DisplayFor(modelItem => item.PackageImage)" style="height:100px; width:100px;" />
+
+                        </td>
+                        
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PackageGuide)
+                        </td>
+                        
+                        <td>
+                            <a asp-action="editpack" asp-route-id="@item.PackageId">Edit</a> |
+                            <a asp-action="packagedetail" asp-route-id="@item.PackageId">Details</a> |
+                            <a asp-action="packagedelete" asp-route-id="@item.PackageId">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

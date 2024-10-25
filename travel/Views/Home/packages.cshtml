@@ -1,0 +1,164 @@
+﻿
+@{
+    ViewData["Title"] = "packages";
+}
+@section arqam{
+    <div class="container-fluid bg-primary py-5 mb-5 hero-header">
+        <div class="container py-5">
+            <div class="row justify-content-center py-5">
+                <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
+                    <h1 class="display-3 text-white animated slideInDown">Packages</h1>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a href="#">Home</a></li>
+                            <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                            <li class="breadcrumb-item text-white active" aria-current="page">Packages</li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@section navbar{
+    
+        <div class="navbar-nav ms-auto py-0">
+            <a asp-action="index" class="nav-item nav-link">Home</a>
+            <a asp-action="about" class="nav-item nav-link">About</a>
+            <a asp-action="services" class="nav-item nav-link">Services</a>
+            <a asp-action="packages" class="nav-item nav-link active">Packages</a>
+        <a asp-action="destination" class="nav-item nav-link">Destination</a>
+
+            <a asp-action="contact" class="nav-item nav-link">Contact</a>
+        </div>
+       
+}
+
+<!-- Package Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Packages</h6>
+            <h1 class="mb-5">Awesome Packages</h1>
+        </div>
+        <div class="row g-4 justify-content-center">
+           
+                    <div class="row g-4 justify-content-center">
+
+
+                @foreach (var item in ViewBag.package)
+                {
+                    if (item.PopularPackage == true && item.ActivePackage == true)
+                    {
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="package-item">
+                                <div class="overflow-hidden">
+                                    <img class="img-fluid" src="~/images/@item.PackageImage" alt="" >
+                                </div>
+                                <div class="d-flex border-bottom">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt text-primary me-2"></i>@item.PackageCountry</small>
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>@item.PackageDays</small>
+                                    <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>@item.PackagePerson</small>
+                                </div>
+                                <div class="text-center p-4">
+                                    <h3 class="mb-0">@item.PackagePrice</h3>
+                                    <div class="mb-3">
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                    </div>
+                                    <p>@item.PackageDescription</p>
+                                    <div class="d-flex justify-content-center mb-2">
+                                        <a asp-action="book" asp-route-id="@item.PackageId" class="btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Book Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                }
+                    </div>
+             
+        </div>
+    </div>
+</div>
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Packages</h6>
+            <h1 class="mb-5">More Packages</h1>
+        </div>
+        <div class="row g-4 justify-content-center">
+
+            <div class="row g-4 justify-content-center">
+
+
+                @foreach (var item in ViewBag.package)
+                {
+                    if (item.PopularPackage == false && item.ActivePackage == true)
+                    {
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="package-item">
+                                <div class="overflow-hidden">
+                                    <img class="img-fluid" src="~/images/@item.PackageImage" alt="">
+                                </div>
+                                <div class="d-flex border-bottom">
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-map-marker-alt text-primary me-2"></i>@item.PackageCountry</small>
+                                    <small class="flex-fill text-center border-end py-2"><i class="fa fa-calendar-alt text-primary me-2"></i>@item.PackageDays</small>
+                                    <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>@item.PackagePerson</small>
+                                </div>
+                                <div class="text-center p-4">
+                                    <h3 class="mb-0">@item.PackagePrice</h3>
+                                    <div class="mb-3">
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                        <small class="fa fa-star text-primary"></small>
+                                    </div>
+                                    <p>@item.PackageDescription</p>
+                                    <div class="d-flex justify-content-center mb-2">
+                                        <a asp-action="book" asp-route-id="@item.PackageId" class="btn btn-sm btn-primary px-3" style="border-radius: 0 30px 30px 0;">Book Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                }
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Package End -->
+<!-- Process Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center pb-4 wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title bg-white text-center text-primary px-3">Process</h6>
+            <h1 class="mb-5">3 Easy Steps</h1>
+        </div>
+        <div class="row gy-5 gx-4 justify-content-center">
+            @foreach (var item in ViewBag.process)
+            {
+                <div class="col-lg-4 col-sm-6 text-center pt-4 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="position-relative border border-primary pt-5 pb-4 px-4">
+                        <div class="d-inline-flex align-items-center justify-content-center bg-primary rounded-circle position-absolute top-0 start-50 translate-middle shadow" style="width: 100px; height: 100px;">
+                            <img src="~/images/@item.ProcessImage" width="70" height="70" />
+                        </div>
+                        <h5 class="mt-4">@item.ProcessName</h5>
+                        <hr class="w-25 mx-auto bg-primary mb-1">
+                        <hr class="w-50 mx-auto bg-primary mt-0">
+                        <p class="mb-0">@item.ProcessDescription</p>
+                    </div>
+                </div>
+            }
+           
+        </div>
+    </div>
+</div>
+<!-- Process Start -->

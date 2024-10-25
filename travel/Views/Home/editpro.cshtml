@@ -1,0 +1,55 @@
+﻿@model travel.proimg
+
+@{
+    ViewData["Title"] = "editpro";
+    Layout = "adminlayout";
+
+}
+
+
+<div class="container">
+    <div class="container">
+        
+
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+        <br />
+        <h1>Edit Process</h1>
+        <br />
+        <hr />
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="editpro" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="ProcessId" />
+                    
+                    <div class="form-group">
+                        <label asp-for="ProcessName" class="control-label"></label>
+                        <input asp-for="ProcessName" class="form-control" />
+                        <span asp-validation-for="ProcessName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ProcessDescription" class="control-label"></label>
+                        <input asp-for="ProcessDescription" class="form-control" />
+                        <span asp-validation-for="ProcessDescription" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label asp-for="ProcessPhoto" class="control-label"></label>
+                        <input asp-for="ProcessPhoto" class="form-control" />
+                        <span asp-validation-for="ProcessPhoto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            <a asp-action="processlist">Back to List</a>
+        </div>
+
+
+    </div>
+</div>

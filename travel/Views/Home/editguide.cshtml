@@ -1,0 +1,54 @@
+﻿  @model travel.guideimg
+
+@{
+    ViewData["Title"] = "editservice";
+    Layout = "adminlayout";
+
+}
+
+<div class="container">
+    <div class="container">
+
+
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+        <br />
+        <h1>Edit Guide</h1>
+        <br />
+        <hr />
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="editguide" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="GudieId" />
+                    
+                    <div class="form-group">
+                        <label asp-for="GuidePhoto" class="control-label"></label>
+                        <input asp-for="GuidePhoto" class="form-control" />
+                        <span asp-validation-for="GuidePhoto" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label asp-for="GuideName" class="control-label"></label>
+                        <input asp-for="GuideName" class="form-control" />
+                        <span asp-validation-for="GuideName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="GuideDestination" class="control-label"></label>
+                        <input asp-for="GuideDestination" class="form-control" />
+                        <span asp-validation-for="GuideDestination" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            <a asp-action="guidelist">Back to List</a>
+        </div>
+
+
+    </div>
+</div>

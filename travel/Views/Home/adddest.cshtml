@@ -1,0 +1,86 @@
+﻿ @model travel.adddest
+
+@{
+    ViewData["Title"] = "adddest";
+    Layout = "adminlayout";
+}
+
+<div class="container">
+    <div class="container">
+       
+
+        <div style="width:100%; height:100px; background-color:transparent;">
+        </div>
+        <br />
+        <h1>Add Destination</h1>
+        <br />
+        <hr />
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="adddest" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="DestinationCountry" class="control-label"></label>
+                        <input asp-for="DestinationCountry" class="form-control" />
+                        <span asp-validation-for="DestinationCountry" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DestinationPrice" class="control-label"></label>
+                        <input asp-for="DestinationPrice" class="form-control" />
+                        <span asp-validation-for="DestinationPrice" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DestinationPhoto" class="control-label"></label>
+                        <input asp-for="DestinationPhoto" class="form-control" />
+                        <span asp-validation-for="DestinationPhoto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DestinationGuider" class="control-label"></label>
+                        <select asp-for="DestinationGuider">
+                            <option selected disabled>Select Guider</option>
+                            @foreach (var item in ViewBag.guide)
+                            {
+                                <option value="@item.GuideName">@item.GuideName - @item.GuideDestination</option>
+                            }
+                        </select>
+                        <span asp-validation-for="DestinationGuider" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DestinationDate1" class="control-label"></label>
+                        <input asp-for="DestinationDate1" class="form-control" />
+                        <span asp-validation-for="DestinationDate1" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DestinationDate2" class="control-label"></label>
+                        <input asp-for="DestinationDate2" class="form-control" />
+                        <span asp-validation-for="DestinationDate2" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="DestinationDate3" class="control-label"></label>
+                        <input asp-for="DestinationDate3" class="form-control" />
+                        <span asp-validation-for="DestinationDate3" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ActiveDestination" class="control-label"></label>
+                        @Html.CheckBox("ActiveDestination", false)
+
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="PopularDestination" class="control-label"></label>
+                        @Html.CheckBox("PopularDestination", false)
+
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            <a asp-action="destinationlist">Back to List</a>
+        </div>
+
+
+    </div>
+</div>
